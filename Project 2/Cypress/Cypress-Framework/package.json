@@ -1,0 +1,19 @@
+{
+  "name": "cypress-framework",
+  "version": "1.0.0",
+  "description": "Cypress Tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "CRUD",
+    "Operation",
+    "Test",
+    "Cypress",
+    "automation",
+    "framework"
+  ],
+  "author": "Philip Reid",
+  "license": "ISC"
+}
